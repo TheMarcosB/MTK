@@ -1,0 +1,23 @@
+{
+    1000: [
+        ["kb",  "kilo"],
+        ["mb",  "mega"],
+        ["gb",  "giga"],
+        ["tb",  "tera"],
+        ["pb",  "peta"],
+        ["eb",  "exa"],
+        ["zb",  "zetta"],
+        ["yb",  "yotta"]
+    ],
+
+    1024: [
+        ["kib",  "kibi"],
+        ["mib",  "mebi"],
+        ["gib",  "gibi"],
+        ["tib",  "tebi"],
+        ["pib",  "pebi"],
+        ["eib",  "exbi"],
+        ["zib",  "zebi"],
+        ["yib",  "yobi"]
+    ]
+}
